@@ -1,0 +1,175 @@
+
+/*  navigation styles */
+
+/* fonts */
+ @import url('https://fonts.google.com/specimen/Titillium+Web#:~:text=font-family%3A%20%27Titillium%20Web%27%2C%20sans-serif%3B');
+
+body {
+  background-color: hsl(175, 70%, 58%);
+}
+
+.nav {
+  background-color: #050953;
+}
+
+.me {
+  width: 40%;
+  height: 80px;
+  float: left;
+  background-color: #050953;
+  font-family: 'Titillium', cursive;
+  margin-bottom: 1px;
+}
+
+#begin {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.me #name {
+    color: white;
+    font-size: 30px;
+    margin-bottom: 2px;
+}
+
+.me p {
+  font-size: 30px;
+  color: white;
+  font-weight: 400;
+  padding-left: 5%;
+  text-transform: capitalize;
+}
+
+.me span {
+  font-size: 45px;
+  font-weight: normal;
+  color: #250202;
+  text-transform: uppercase;
+}
+
+#mobile {
+  text-align: center;
+  background-color: rgba(0, 100, 50, 0.2);
+  width: 100%;
+  clear: both;
+  display: none;
+  height: 40px;
+  border-top: 3px solid rgb(0, 250, 200);
+}
+
+#mobile p {
+  padding-top: 1%;
+  font-size: 20px;
+  color: gray;
+  text-transform: uppercase;
+  letter-spacing: 0.3em;
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+  transition: all 1s ease;
+}
+
+nav {
+  width: 60%;
+  height: 80px;
+  float: left;
+  background-color: rgb(25, 28, 77);
+}
+
+nav ul li {
+  list-style: none;
+  color: #fefefe;
+  float: left;
+  font-size: 16px;
+  padding: 3.5% 2.5%;
+  transition: all 0.5s ease;
+}
+
+nav ul li:hover {
+  background-color: rgba(0, 0, 0, 0.2);
+  border-bottom: 1px solid #e5ff00;
+  height: 1px;
+}
+
+nav ul li a:hover {
+    color: #1dee86;
+}
+
+@media (max-width: 1280px) {
+
+  .me p {
+    font-size: 40px;
+    padding-left: 10%;
+  }
+
+  nav ul li {
+    font-size: 20px;
+    padding: 5% 3.5%;
+  }
+}
+
+@media (max-width: 1024px) {
+  * {
+    font-size: 19px;
+  }
+
+  .me,
+  nav {
+    height: 75px;
+  }
+
+  .me p {
+    font-size: 37px;
+    padding-left: 9%;
+    padding-top: 3%;
+  }
+
+  .me p span {
+    font-size: 40px;
+  }
+
+  nav ul li {
+    font-size: 20px;
+    padding: 5.3% 3.5%;
+    height: auto;
+  }
+}
+
+@media (max-width: 770px) {
+  .me {
+    width: 100%;
+    background-color: #01031d1a;
+    clear: both;
+    text-align: center;
+    border: none;
+    height: 100px;
+  }
+
+  .me p {
+    font-size: 45px;
+    padding-left: 0;
+  }
+
+  .me p span {
+    font-size: 50px;
+  }
+
+  #mobile {
+    display: block;
+  }
+
+  #nav {
+    width: 100%;
+    height: 100%;
+    display: none;
+  }
+
+  #nav ul li {
+    border-bottom: 2px solid #4e07071a;
+    width: 100%;
+    padding: 2% 0%;
+    text-align: center;
+  }
+} 
