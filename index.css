@@ -218,3 +218,6 @@ nav ul li a:hover {
   height: 60px;
   width: 60px;
 }
+.image {
+  border-radius: 100%;
+}
