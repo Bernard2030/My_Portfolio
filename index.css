@@ -173,3 +173,15 @@ nav ul li a:hover {
     text-align: center;
   }
 } 
+.container {
+  background-color: #fefefe;
+  text-align: center;
+  box-sizing: border-box;
+}
+.col-sm-3 {
+  background-color: hsl(160, 100%, 12%);
+  transition: cubic-bezier(0.075, 0.82, 0.165, 1);
+  text-shadow: chartreuse;
+  box-sizing: content-box;
+  list-style-type: none;
+}
