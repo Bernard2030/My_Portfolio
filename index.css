@@ -185,3 +185,31 @@ nav ul li a:hover {
   box-sizing: content-box;
   list-style-type: none;
 }
+.media {
+  display: inline-flex;
+  list-style-type: none;
+
+}
+.last {
+  background-color: darkblue;
+  display: inline-flex;
+  list-style-type: none;
+  
+}
+/* .facebook {
+  float: right;
+}
+.linkedin {
+  float: right;
+  width: 2px;
+  height: 2px;
+} */
+.col-3 {
+  background-color: darkolivegreen;
+}
+.cad-4 {
+  background-color: darkseagreen;
+}
+/* .cad-2 {
+  float: right; */
+}
