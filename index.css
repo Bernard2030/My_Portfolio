@@ -192,24 +192,29 @@ nav ul li a:hover {
 }
 .last {
   background-color: darkblue;
-  display: inline-flex;
+  display: flex;
   list-style-type: none;
   
 }
-/* .facebook {
-  float: right;
-}
-.linkedin {
-  float: right;
-  width: 2px;
-  height: 2px;
-} */
+
 .col-3 {
   background-color: darkolivegreen;
 }
 .cad-4 {
   background-color: darkseagreen;
 }
-/* .cad-2 {
-  float: right; */
+.footer ul {
+  list-style-type: none;
+}
+.footer {
+  background-color: darkblue;
+  padding: 40px;
+  max-width:100%;
+}
+.footer ul li {
+  display: inline;
+}
+.footer ul li img {
+  height: 60px;
+  width: 60px;
 }
