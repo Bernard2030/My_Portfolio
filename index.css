@@ -222,3 +222,7 @@ nav ul li a:hover {
 .image {
   border-radius: 100%;
 }
+.experience {
+  color: darkgreen;
+  float: left 70%;
+}
