@@ -197,11 +197,12 @@ nav ul li a:hover {
   
 }
 
-.col-3 {
+.card-group {
   background-color: darkolivegreen;
 }
 .cad-4 {
   background-color: darkseagreen;
+
 }
 .footer ul {
   list-style-type: none;
