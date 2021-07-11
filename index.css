@@ -10,6 +10,7 @@ body {
 
 .nav {
   background-color: #050953;
+  position: sticky;
 }
 
 .me {
@@ -19,6 +20,7 @@ body {
   background-color: #050953;
   font-family: 'Titillium', cursive;
   margin-bottom: 1px;
+  position: sticky;
 }
 
 #begin {
