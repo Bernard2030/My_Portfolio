@@ -1,21 +1,16 @@
 # My_Portfolio
-#### {I am Bernard Opiyo an upcoming developer interested in making the internet the prefered shop for everyone.}, {July 8 2021}
-#### By *1*{Bernard Opiyo}**
+#### My portfolio landing page project was designed and created by Bernard Opiyo Mukhenye on July 8th 2021. 
+#### By *1*Bernard Opiyo**
 ## Description
-{My portfolio shows, and reveals more about bernard and his background, education experience and interest }
+A landing page Portfolio that contain more details pertaining myself, my projects, experience in the fields I have been so far  and skills have gotten so far in programming and how to get me.
 ## Setup/Installation Requirements
-* Must have git-hub account
-* ork the project
-* Clone
-* Run in  VS-code to view and add changes
-* Ensure to request permission to add or subtract anything.
-{You can access my work through git-hub }
-## Known Bugs
-{At the moment there is no known bugs. }
+* Chrome browser
+* Git
+* Bootrap 5
+
 ## Technologies Used
-{Technologies used are Html5, Css and Bootstrap}
+* HTML5
+* CSS
+* Bootstrap5
 ## Support and contact details
-{You can reach me through brobernard.254@gmail.com, for clarification on any issues regarding the project.}
-### License
-*{The project is under MIT License}*
-Copyright (c) {2021} *1*{Bernard Opiyo}**
+You can reach me through brobernard.254@gmail.com, for clarification on any issues regarding the project.
