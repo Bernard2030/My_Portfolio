@@ -1,4 +1,4 @@
-# {My_Portfolio}
+# My_Portfolio
 #### {I am Bernard Opiyo an upcoming developer interested in making the internet the prefered shop for everyone.}, {July 8 2021}
 #### By *1*{Bernard Opiyo}**
 ## Description
